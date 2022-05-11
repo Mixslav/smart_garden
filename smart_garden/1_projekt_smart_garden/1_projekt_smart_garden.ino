@@ -21,7 +21,7 @@ ESP8266WebServer server(80);  //--> Server on port 80
 //*****************  WIFI IME I ŠIFRA ZA ESP KAO ACCESS POINT  ******************
 
 const char* ssid = "NodeMCU_ESP8266";
-const char* password = "Fatmico1";
+const char* password = "pass";
 
 //*******************************************************************************
 
